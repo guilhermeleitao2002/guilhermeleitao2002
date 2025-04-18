@@ -17,7 +17,7 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
 ## 🌱 Github Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermeleitao2002&theme=tokyonight&hide_border=false&mode=weekly" alt="GitHub Streak" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermeleitao2002&theme=tokyonight&hide_border=false&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -43,6 +43,45 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guilhermeleitao2002's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
   &nbsp;
 </details>
+
+## 📖 Academic Projects
+
+The following projects were developed during my academic journey. They are a mix of individual and group projects, showcasing my skills in various programming languages and technologies. The list doesn't include all projects, as a small subset was left out due to lack of code applicability or relevance to an open-source environment.
+
+### LEIC-A (Bachelor's Degree)
+
+#### 2nd Year
+
+- ♾️ [**Analysis and Synthesis of Algorithms**](https://github.com/guilhermeleitao2002/Algorithms-Project)
+- 🐍 [**Foundations of Programming**](https://github.com/guilhermeleitao2002/BuggyDB-Meadow-Project)
+- 𝐏 [**Logic for Programming**](https://github.com/guilhermeleitao2002/Hashi-Puzzle-Project)
+- 💻 [**Operating Systems**](https://github.com/guilhermeleitao2002/OS-Project)
+- 🛢 [**Databases**](https://github.com/guilhermeleitao2002/DB-Project)
+- 𝐂 [**Introduction to Algorithms and Data Structures**](https://github.com/guilhermeleitao2002/Airport-Simulator)
+- 📈 [**Probabilistic and Statistics**](https://github.com/guilhermeleitao2002/Statistics-Project)
+
+#### 3rd Year
+
+- 🧠 [**Machine Learning**](https://github.com/guilhermeleitao2002/ML-Project)
+- 🌐 [**Computer Networks**](https://github.com/guilhermeleitao2002/Hangman-Game)
+- 🖥 [**Compilers**](https://github.com/guilhermeleitao2002/MML-Compiler)
+- 🌎 [**Distributed Systems**](https://github.com/guilhermeleitao2002/Distributed-Systems)
+
+### MEIC-A (Master's Degree)
+
+#### 1st Year
+
+- 🤖 [**Deep Learning (Dei)**](https://github.com/guilhermeleitao2002/Deep-Learning-Project)
+- 🔎 [**Forensics Cyber-Security**](https://github.com/guilhermeleitao2002/Forensics-Project)
+- 👨🏼‍💻 [**Software Security**](https://github.com/guilhermeleitao2002/Vulnerability-Tool-Scanner)
+- 👾 [**Autonomous Agents and Multi-Agent Systems**](https://github.com/guilhermeleitao2002/Game-of-Sueca-Engine)
+
+#### 2nd Year
+
+- 🤖ིྀ **Introduction to Robotics** [**Part 1**](https://github.com/guilhermeleitao2002/IRobo) **&** [**Part 2**](https://github.com/guilhermeleitao2002/IRobo-rrt_planner)
+- ֎ [**Natural Language**](https://github.com/guilhermeleitao2002/Movie-Genre-Prediction)
+- 🔐 [**Network and Computer Security**](https://github.com/guilhermeleitao2002/Network-Security-Project)
+- 🖥️ [**Highly Dependable Systems**](https://github.com/guilhermeleitao2002/DepBlockchain)
 
 ## ⚙️ My Skills
 
@@ -96,45 +135,6 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📖 Academic Projects
-
-The following projects were developed during my academic journey. They are a mix of individual and group projects, showcasing my skills in various programming languages and technologies. The list doesn't include all projects, as a small subset was left out due to lack of code applicability or relevance to an open-source environment.
-
-### LEIC-A (Bachelor's Degree)
-
-#### 2nd Year
-
-- ♾️ [**Analysis and Synthesis of Algorithms**](https://github.com/guilhermeleitao2002/Algorithms-Project)
-- 🐍 [**Foundations of Programming**](https://github.com/guilhermeleitao2002/BuggyDB-Meadow-Project)
-- 𝐏 [**Logic for Programming**](https://github.com/guilhermeleitao2002/Hashi-Puzzle-Project)
-- 💻 [**Operating Systems**](https://github.com/guilhermeleitao2002/OS-Project)
-- 🛢 [**Databases**](https://github.com/guilhermeleitao2002/DB-Project)
-- 𝐂 [**Introduction to Algorithms and Data Structures**](https://github.com/guilhermeleitao2002/Airport-Simulator)
-- 📈 [**Probabilistic and Statistics**](https://github.com/guilhermeleitao2002/Statistics-Project)
-
-#### 3rd Year
-
-- 🧠 [**Machine Learning**](https://github.com/guilhermeleitao2002/ML-Project)
-- 🌐 [**Computer Networks**](https://github.com/guilhermeleitao2002/Hangman-Game)
-- 🖥 [**Compilers**](https://github.com/guilhermeleitao2002/MML-Compiler)
-- 🌎 [**Distributed Systems**](https://github.com/guilhermeleitao2002/Distributed-Systems)
-
-### MEIC-A (Master's Degree)
-
-#### 1st Year
-
-- 🤖 [**Deep Learning (Dei)**](https://github.com/guilhermeleitao2002/Deep-Learning-Project)
-- 🔎 [**Forensics Cyber-Security**](https://github.com/guilhermeleitao2002/Forensics-Project)
-- 👨🏼‍💻 [**Software Security**](https://github.com/guilhermeleitao2002/Vulnerability-Tool-Scanner)
-- 👾 [**Autonomous Agents and Multi-Agent Systems**](https://github.com/guilhermeleitao2002/Game-of-Sueca-Engine)
-
-#### 2nd Year
-
-- 🤖ིྀ **Introduction to Robotics** [**Part 1**](https://github.com/guilhermeleitao2002/IRobo) **&** [**Part 2**](https://github.com/guilhermeleitao2002/IRobo-rrt_planner)
-- ֎ [**Natural Language**](https://github.com/guilhermeleitao2002/Movie-Genre-Prediction)
-- 🔐 [**Network and Computer Security**](https://github.com/guilhermeleitao2002/Network-Security-Project)
-- 🖥️ [**Highly Dependable Systems**](https://github.com/guilhermeleitao2002/DepBlockchain)
-
 #
 
-Last Edited on: 18th April 2025
+ - Last Edited on: 18th April 2025
