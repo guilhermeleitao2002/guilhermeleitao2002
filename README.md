@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Guilherme
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRlM28ydnRzNTZnOWtvYXp4ZzhocWxzaWZ0YW85Y3M1MnB5M3lxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxHQ4BtLeEGBlWIFTs/giphy.gif" width="35">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhzM2d4MDdrdGx5dTh4MDh4M3FwOThqMzgya2hyNGEzam9zZXZlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxHQ4BtLeEGBlWIFTs/giphy.gif" width="35">
 </h1>
 
 <p align="center">
