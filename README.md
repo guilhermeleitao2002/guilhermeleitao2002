@@ -4,7 +4,7 @@ Hi, I'm Guilherme
 </h1>
 
 <p align="center">
-  <a href="https://fenix.tecnico.ulisboa.pt/cursos/meic-a/curriculo"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;@+Instituto+Superior+Técnico;Cybersecurity+and+AI&font=rubik&center=true&vCenter=false&multiline=true&duration=1500&color=008000&height=80&repeat=false"></a>
+  <a href="https://fenix.tecnico.ulisboa.pt/cursos/meic-a/curriculo"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;@+Instituto+Superior+Técnico;Cybersecurity+and+AI&font=rubik&center=true&vCenter=false&multiline=true&duration=1500&color=00f000&height=80&repeat=false"></a>
 </p>
 
 <h4 align="center">
