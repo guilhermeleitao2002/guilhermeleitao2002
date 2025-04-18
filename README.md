@@ -4,7 +4,7 @@ Hi, I'm Guilherme
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;@+Instituto+Superior+Técnico"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;@+Instituto+Superior+Técnico;Cybersecurity+and+AI&"></a>
 </p>
 
 <h4 align="center">
@@ -91,7 +91,7 @@ Currently, I'm also learning Japanese so I can travel there for some months 🛬
 
 The following projects were developed during my academic journey. They are a mix of individual and group projects, showcasing my skills in various programming languages and technologies. The list doesn't include all projects, as a small subset was left out due to lack of code applicability or relevance to an open-source environment.
 
-### LEIC-A (Bachelor's)
+### LEIC-A (Bachelor's Degree)
 
 #### 2nd Year
 
@@ -110,7 +110,7 @@ The following projects were developed during my academic journey. They are a mix
 - [**Compilers**](https://github.com/guilhermeleitao2002/MML-Compiler)
 - [**Distributed Systems**](https://github.com/guilhermeleitao2002/Distributed-Systems)
 
-### MEIC-A (Master's)
+### MEIC-A (Master's Degree)
 
 #### 1st Year
 
@@ -126,5 +126,6 @@ The following projects were developed during my academic journey. They are a mix
 - [**Network and Computer Security**](https://github.com/guilhermeleitao2002/Network-Security-Project)
 - [**Highly Dependable Systems**](https://github.com/guilhermeleitao2002/DepBlockchain)
 
+#
 
-Last Edited on: 17th April 2025
+Last Edited on: 18th April 2025
