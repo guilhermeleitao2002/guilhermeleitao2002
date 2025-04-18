@@ -21,7 +21,7 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
 </p>
 
 <p align="center">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitao2002&theme=github_dark&count_private=true&hide=Roff,HTML,Jupyter Notebook,Prolog"/>
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitao2002&theme=github_dark&count_private=true&hide=Roff,HTML,Jupyter+Notebook,Prolog"/>
 </p>
 
 <details> 
