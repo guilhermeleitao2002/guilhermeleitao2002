@@ -128,9 +128,9 @@ The following projects were developed during my academic journey. They are a mix
 
 #
 
-Checkout my [**LinkedIn**](https://www.linkedin.com/in/guilherme-leitao-2002/) for more information about my academic and professional journey.
+Checkout my [**LinkedIn**](https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192/) for more information about my academic and professional journey.
 
-[**Here**](https://guilhermeleitao2002.github.io/guilhermeleitao2002/) is a link to my resume.
+[**Here**](https://guilhermeleitao2002.github.io/guilhermeleitao2002/CV.pdf) is a link to my resume.
 
 # 
 
