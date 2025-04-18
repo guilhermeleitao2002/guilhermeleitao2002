@@ -21,17 +21,7 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true&theme=chartreuse-dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true" />
-  </picture>
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitao2002&theme=github_dark&count_private=true&hide=Roff,HTML,Jupyter Notebook,Prolog" alt="guilhermeleitao2002" />
 </p>
 
 <details> 
@@ -39,9 +29,19 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
     <p align="center">
     <img src="https://komarev.com/ghpvc/?username=guilhermeleitao2002&label=Profile%20views&color=0e25d1&style=for-the-badge" alt="guilhermeleitao2002" />
     </p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guilhermeleitao2002's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
-  &nbsp;
+    <p align="center">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true&theme=chartreuse-dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true" />
+      </picture>
+    </p>
 </details>
 
 ## 📖 Academic Projects
