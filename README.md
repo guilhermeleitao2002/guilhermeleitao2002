@@ -16,17 +16,26 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
 
 ## 🌱 Github Stats
 
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeleitao2002&theme=algolia" alt="guilhermeleitao2002"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermeleitao2002&theme=tokyonight&hide_border=false&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitao2002&theme=github_dark&count_private=true&hide=Roff,HTML" alt="guilhermeleitao2002" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true&theme=chartreuse-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=guilhermeleitao2002&show_icons=true" />
+  </picture>
 </p>
 
 <details> 
-  <summary><b>💻 Profile Stats (Click to expand)</b></summary>
+  <summary><b>👨🏻‍💻 Profile Stats (Click to expand)</b></summary>
     <p align="center">
     <img src="https://komarev.com/ghpvc/?username=guilhermeleitao2002&label=Profile%20views&color=0e25d1&style=for-the-badge" alt="guilhermeleitao2002" />
     </p>
@@ -67,7 +76,6 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
 
 ### 📎 Frontend Development
 <p align="center"> 
-  &emsp; 
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     </a>
