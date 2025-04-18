@@ -21,13 +21,13 @@ Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192
 </p>
 
 <p align="center">
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitao2002&theme=github_dark&count_private=true&hide=Roff,HTML,Jupyter Notebook,Prolog" alt="guilhermeleitao2002" />
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitao2002&theme=github_dark&count_private=true&hide=Roff,HTML,Jupyter Notebook,Prolog"/>
 </p>
 
 <details> 
   <summary><b>👨🏻‍💻 Profile Stats (Click to expand)</b></summary>
     <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=guilhermeleitao2002&label=Profile%20views&color=0e25d1&style=for-the-badge" alt="guilhermeleitao2002" />
+    <img src="https://komarev.com/ghpvc/?username=guilhermeleitao2002&label=Profile%20views&color=0e25d1&style=for-the-badge"/>
     </p>
     <p align="center">
       <picture>
