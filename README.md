@@ -52,36 +52,36 @@ The following projects were developed during my academic journey. They are a mix
 
 #### 2nd Year
 
-- ♾️ [**Analysis and Synthesis of Algorithms**](https://github.com/guilhermeleitao2002/Algorithms-Project)
-- 🐍 [**Foundations of Programming**](https://github.com/guilhermeleitao2002/BuggyDB-Meadow-Project)
-- 𝐏 [**Logic for Programming**](https://github.com/guilhermeleitao2002/Hashi-Puzzle-Project)
-- 💻 [**Operating Systems**](https://github.com/guilhermeleitao2002/OS-Project)
-- 🛢 [**Databases**](https://github.com/guilhermeleitao2002/DB-Project)
-- 𝐂 [**Introduction to Algorithms and Data Structures**](https://github.com/guilhermeleitao2002/Airport-Simulator)
-- 📈 [**Probabilistic and Statistics**](https://github.com/guilhermeleitao2002/Statistics-Project)
+- ♾️ [**Analysis and Synthesis of Algorithms**](https://github.com/guilhermeleitao2002/Algorithms-Project) -> *Part 1:* **20** | *Part 2:* **19.5**
+- 🐍 [**Foundations of Programming**](https://github.com/guilhermeleitao2002/BuggyDB-Meadow-Project) -> *Part 1:* **19.7** | *Part 2:* **19.25**
+- 𝐏 [**Logic for Programming**](https://github.com/guilhermeleitao2002/Hashi-Puzzle-Project) -> **19.71**
+- 💻 [**Operating Systems**](https://github.com/guilhermeleitao2002/OS-Project) -> **16**
+- 🛢 [**Databases**](https://github.com/guilhermeleitao2002/DB-Project) -> **16.94**
+- 𝐂 [**Introduction to Algorithms and Data Structures**](https://github.com/guilhermeleitao2002/Airport-Simulator) -> *Part 1:* **19.5** | *Part 2:* **16.5**
+- 📈 [**Probabilistic and Statistics**](https://github.com/guilhermeleitao2002/Statistics-Project) -> **19**
 
 #### 3rd Year
 
-- 🧠 [**Machine Learning**](https://github.com/guilhermeleitao2002/ML-Project)
-- 🌐 [**Computer Networks**](https://github.com/guilhermeleitao2002/Hangman-Game)
-- 🖥 [**Compilers**](https://github.com/guilhermeleitao2002/MML-Compiler)
-- 🌎 [**Distributed Systems**](https://github.com/guilhermeleitao2002/Distributed-Systems)
+- 🧠 [**Machine Learning**](https://github.com/guilhermeleitao2002/ML-Project) -> **18.2**
+- 🌐 [**Computer Networks**](https://github.com/guilhermeleitao2002/Hangman-Game) -> **16.5**
+- 🖥 [**Compilers**](https://github.com/guilhermeleitao2002/MML-Compiler) -> **13.01**
+- 🌎 [**Distributed Systems**](https://github.com/guilhermeleitao2002/Distributed-Systems) -> **18.96**
 
 ### MEIC-A (Master's Degree)
 
 #### 1st Year
 
-- 🤖 [**Deep Learning (Dei)**](https://github.com/guilhermeleitao2002/Deep-Learning-Project)
-- 🔎 [**Forensics Cyber-Security**](https://github.com/guilhermeleitao2002/Forensics-Project)
-- 👨🏼‍💻 [**Software Security**](https://github.com/guilhermeleitao2002/Vulnerability-Tool-Scanner)
-- 👾 [**Autonomous Agents and Multi-Agent Systems**](https://github.com/guilhermeleitao2002/Game-of-Sueca-Engine)
+- 🤖 [**Deep Learning (Dei)**](https://github.com/guilhermeleitao2002/Deep-Learning-Project) -> *Part 1:* **19.6** | *Part 2:* **18.2**
+- 🔎 [**Forensics Cyber-Security**](https://github.com/guilhermeleitao2002/Forensics-Project) -> **17.9**
+- 👨🏼‍💻 [**Software Security**](https://github.com/guilhermeleitao2002/Vulnerability-Tool-Scanner) -> **16.8**
+- 👾 [**Autonomous Agents and Multi-Agent Systems**](https://github.com/guilhermeleitao2002/Game-of-Sueca-Engine) -> **17**
 
 #### 2nd Year
 
-- 🤖ིྀ **Introduction to Robotics** [**Part 1**](https://github.com/guilhermeleitao2002/IRobo) **&** [**Part 2**](https://github.com/guilhermeleitao2002/IRobo-rrt_planner)
-- ֎ [**Natural Language**](https://github.com/guilhermeleitao2002/Movie-Genre-Prediction)
-- 🔐 [**Network and Computer Security**](https://github.com/guilhermeleitao2002/Network-Security-Project)
-- 🖥️ [**Highly Dependable Systems**](https://github.com/guilhermeleitao2002/DepBlockchain)
+- 🤖ིྀ **Introduction to Robotics** [**Part 1**](https://github.com/guilhermeleitao2002/IRobo) **&** [**Part 2**](https://github.com/guilhermeleitao2002/IRobo-rrt_planner) -> **17**
+- ֎ [**Natural Language**](https://github.com/guilhermeleitao2002/Movie-Genre-Prediction) -> **17.25**
+- 🔐 [**Network and Computer Security**](https://github.com/guilhermeleitao2002/Network-Security-Project) -> **19**
+- 🖥️ [**Highly Dependable Systems**](https://github.com/guilhermeleitao2002/DepBlockchain) -> **18.5**
 
 ## ⚙️ My Skills
 
@@ -137,4 +137,4 @@ The following projects were developed during my academic journey. They are a mix
 
 #
 
- - Last Edited on: 4th May 2025
+ - Last Edited on: 7th May 2025
