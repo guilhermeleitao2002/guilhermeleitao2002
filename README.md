@@ -83,6 +83,7 @@ The following projects were developed during my academic journey. They are a mix
 - 🔐 [**Network and Computer Security**](https://github.com/guilhermeleitao2002/Network-Security-Project) -> **19**
 - 🖥️ [**Highly Dependable Systems**](https://github.com/guilhermeleitao2002/DepBlockchain) -> **18.5**
 - 🛠️ [**Programming Languages**](https://github.com/guilhermeleitao2002/LX-Interpreter) -> **19.4**
+- 📱 [**Mobile and Ubiquitous Computing**](https://github.com/guilhermeleitao2002/ChargIST) -> **19.8**
 
 ## ⚙️ My Skills
 
@@ -138,4 +139,4 @@ The following projects were developed during my academic journey. They are a mix
 
 #
 
- - Last Edited on: 19th June 2025
+ - Last Edited on: 27th June 2025
