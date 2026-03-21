@@ -11,7 +11,7 @@ Hi, I'm Guilherme
 👋 I'm currently getting my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico. I am specializing in Artificial Intelligence 🤖 and Cybersecurity 🔒, and it is a goal of mine to work in the cybersecurity field. I am also interested in LLMs and believe it will play a big role in the future of cybersecurity.
 Outside of the tech world, I'm a great adept of the 7th art 🎥, basketball 🏀 and video-games 🎮.
 Currently, I'm also learning Japanese so I can travel there for some months 🛬.
-Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192/">LinkedIn</a> and <a href="https://guilhermeleitao2002.github.io/guilhermeleitao2002/CV - Guilherme Leitão.pdf">Resume</a> for more information about my academic and professional journey.
+Checkout my <a href="https://www.linkedin.com/in/guilherme-leit%C3%A3o-47bb27192/">LinkedIn</a> and <a href="https://guilhermeleitao2002.github.io/guilhermeleitao2002/guilherme_leitao_cv.pdf">Resume</a> for more information about my academic and professional journey.
 </h4>
 
 ## 🌱 Github Stats
@@ -139,4 +139,4 @@ The following projects were developed during my academic journey. They are a mix
 
 #
 
- - Last Edited on: 12th September 2025
+ - Last Edited on: 21th March 2026
